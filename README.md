@@ -1,5 +1,7 @@
 # get-ip-loc
-get ip and location with python
+get ip and location send to discord webhook with python
+
+enter your webhook in line 4
 
 >pip install requests
 
